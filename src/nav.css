@@ -1,0 +1,205 @@
+
+.carta{
+    position: absolute ;
+    left: 450px;
+    top: 300px;
+  
+    color: rgb(12, 7, 7);
+    
+    
+    }
+
+
+.carta1{
+    position: absolute  ;
+    left: 800px;
+   
+    top: 300px;
+   
+    color: rgb(26, 9, 9);
+        
+        
+        }
+.carta2{
+    position: absolute ;
+    left: 1200px;
+    
+    top: 300px;
+    
+    color: rgb(20, 12, 12);
+            
+            
+        }
+.carta3{
+    position: absolute ;
+    left: 450px;
+    
+    top: 600px;
+  
+    color: rgb(27, 13, 13);
+                
+                
+                }
+
+
+.carta4{
+    position: absolute ;
+    left: 800px;
+    top: 600px;
+   
+    color: rgb(24, 9, 9);
+                    
+                    
+}
+                
+                
+.carta5{
+    position: absolute ;
+    left: 1200px;;
+      
+    top: 600px;
+   
+    color: rgb(15, 9, 9);
+                        
+                        
+}
+.carta6{
+    position:absolute ;
+    left: 1400px;
+   
+    top: 600px;
+   
+    color: rgb(7, 5, 5);
+                            
+                            
+}
+.carta7{
+    position:absolute ;
+    left: 1500px;
+    
+    top: 600px;
+   
+    color: rgb(12, 6, 6);
+                                
+}
+
+
+
+.logo{
+    position: absolute ;
+    left: 10px;
+    top: 3px;
+    right: 10px;
+    color: rgb(14, 7, 7);
+
+
+
+    }
+
+  .links{
+position:container-fluid ;
+
+  }  
+  
+
+
+
+@media screen and (max-width: 300px) {
+ /* estilos */
+}
+@media screen and (max-width: 600px) {
+/* Estilos */
+}
+
+@media screen and (min-width:
+1024px) {
+ #main { min-width: 1000px; }
+}
+
+.inst{
+    position:absolute ;
+    left: 100px;
+    
+    top: 250px;
+   
+    color: rgb(245, 240, 240);
+
+
+
+
+}
+
+.twe{
+    position:absolute ;
+    left: 100px;
+    
+    top: 300px;
+   
+    color: rgb(245, 240, 240);
+
+
+
+
+}
+
+
+.face{
+    position:absolute ;
+    left: 100px;
+    
+    top: 350px;
+   
+    color: rgb(245, 240, 240);
+
+
+
+
+}
+
+
+.you{
+    position:absolute ;
+    left: 100px;
+    
+    top: 400px;
+   
+    color: rgb(245, 240, 240);
+
+
+
+
+}
+.linha{
+    position:absolute ;
+    left: -1500px;
+    
+    top: 200px;
+   
+    color: rgba(68, 74, 76, 0.801);
+
+
+
+
+}
+
+.termo{
+    position:absolute ;
+    left: -1500px;
+    
+    top: 400px;
+   
+    color: rgba(232, 238, 240, 0.801);
+
+
+
+
+}
+
+.pri{
+    position:absolute ;
+    left: -1300px;
+    
+    top: 400px;
+   
+    color: rgba(232, 238, 240, 0.801);
+}
